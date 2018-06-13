@@ -1,0 +1,29 @@
+{
+		"symbol": "SUN",
+		"address": "0x8a976bd6Dfec2356629321Fb4d0Ab82d67D9e3Fc",
+		"decimals": 18,
+		"name": "BitSun",
+		"ens_address": "",
+		"website": "https://globalgrid.io",
+		"logo": {
+			"src": "https://globalgrid.io",
+			"width": "224",
+			"height": "248",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@globalgrid.io", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/groups/globalgridplus",
+			"forum": "",
+			"github": "https://github.com/GlobalGridPlus/PrivateGrid",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://web.telegram.org/#/im?p=@UberVolts",
+			"twitter": "",
+			"youtube": "https://www.youtube.com/channel/UCaou63YsF1P9W6b38U39zsQ"
+		}
